@@ -23,6 +23,6 @@ Cyber Scope - Tech & AI NEWS delivers **real-time updates** on artificial intell
 ## 🛠️ Installation (For Developers)  
 Want to run Cyber Scope locally? Follow these steps:  
 ```sh
-git clone https://github.com/YOUR_USERNAME/cyber-scope-news.git
+git clone https://github.com/R-Mohneesh/Cyber-Scope.git
 cd cyber-scope-news
 open index.html
